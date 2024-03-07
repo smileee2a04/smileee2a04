@@ -1,0 +1,9 @@
+- 👋 Hi, I’m samira
+- 👀 I’m interested in learning new things...
+- 🌱 I’m currently learning intro about programming at SUT university...
+- ⚡ Fun fact: I ask a lot ...
+
+<!---
+smileee2a04/smileee2a04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
